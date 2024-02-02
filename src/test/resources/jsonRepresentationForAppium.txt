@@ -1,0 +1,14 @@
+//JSON representation of mobile desired capabilities for EveryDollar Budget app. to be placed in Appium Inspector.
+//Need local host URL: http://localhost:4723/wd/hub
+//Please make sure Remote Path in Appium Inspector contains: /wd/hub
+{
+    "automationName": "UiAutomator2",
+    "platformName": "android",
+    "platformVersion": "11",
+    "deviceName": "emulator-5554",
+    "appPackage": "com.everydollar.android",
+    "appActivity": "crc64e89ea541bcc9feb1.MainActivity",
+    "unicodeKeyboard": "true",
+    "resetKeyboard": "true",
+    "autoAcceptAlerts": "false"
+}
